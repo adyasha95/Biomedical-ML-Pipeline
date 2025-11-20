@@ -1,4 +1,4 @@
-# End-to-End ML Pipeline for Clinical & Biomedical Tabular Data  
+# End-to-End ML Pipeline for Clinical & Biomedical Data  
 Nested Cross-Validation • Imbalance Handling • Classical ML • TabTransformer
 
 This repository contains a research-grade, fully modular pipeline for **predictive modeling on structured biomedical or clinical tabular datasets**.
