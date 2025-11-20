@@ -84,4 +84,4 @@ This repository provides **code only** — users must supply their own compliant
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/adyasha95/Biomedical-ML-Pipeline.git
